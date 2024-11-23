@@ -1,7 +1,6 @@
 package com.wagnerleodoro.forecastwaves.controller;
 
 import com.wagnerleodoro.forecastwaves.model.Cidade;
-import com.wagnerleodoro.forecastwaves.repository.CidadeRepository;
 import com.wagnerleodoro.forecastwaves.services.localidadeServices.LocalidadeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
